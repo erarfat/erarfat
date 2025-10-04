@@ -1,8 +1,14 @@
 # 👋 Hi, I'm Arfat Shaikh | DevOps Engineer 🚀  
 
-Welcome to my GitHub profile!  
-I'm a passionate **DevOps Engineer** who loves automating workflows, optimizing infrastructure, and bridging the gap between development and operations.  
-I focus on **reliability, scalability, and automation** to ensure smooth CI/CD pipelines and cloud-native deployments.
+## 👋 Welcome to My GitHub Profile  
+
+I'm **Arfat Shaikh**, a results-driven **DevOps Engineer** passionate about building reliable, scalable, and automated cloud infrastructures.  
+
+I specialize in **cloud technologies**, **infrastructure as code**, and **continuous integration & delivery (CI/CD)** — helping teams ship faster with greater confidence.  
+My mission is to bridge the gap between **development** and **operations** through automation, observability, and a culture of continuous improvement.  
+
+🚀 I thrive on solving complex challenges, optimizing performance, and crafting seamless DevOps pipelines that bring ideas to life efficiently and securely.  
+
 
 ---
 
@@ -48,12 +54,6 @@ Here are a few highlights of what I’ve been working on:
 - 🐳 **CI/CD Pipeline with Jenkins:** Automated build, test, and deployment using Docker and Kubernetes  
 - ☸️ **Kubernetes Cluster Setup:** Deployed scalable microservices with Helm and Prometheus monitoring  
 - 🔒 **Secure DevOps:** Implemented IAM roles, security groups, and secret management using AWS Secrets Manager  
-
----
-
-## 📈 GitHub Stats
-![Arfat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=erarfat&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erarfat&layout=compact&theme=tokyonight)
 
 ---
 
